@@ -2,4 +2,4 @@
 Some experiments with ChatGPT!
 
 
-[ChatGPT official website](chat.openai.com)
+[ChatGPT official website](https://chat.openai.com)
